@@ -1,5 +1,7 @@
 [![Build status](https://dev.azure.com/dlundy0844/GithubTest/_apis/build/status/GithubTest-CI)](https://dev.azure.com/dlundy0844/GithubTest/_build/latest?definitionId=-1)
 
+I haven't touched this in a long time. 
+
 # Core.ApiSelectProperty
 Quick and dirty sample of how to implement select properties in Api calls when for either security or bad architectural reasons you don't want to push the select parameters all the way down to your data layer. 
 
